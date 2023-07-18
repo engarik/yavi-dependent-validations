@@ -1,0 +1,17 @@
+{
+  "steps": [
+    {
+      "stepId": 1,
+      "stepTerminals": [
+        {
+          "nextStep": 2
+        }
+      ]
+    },
+    {
+      "stepId": 2,
+      "stepTerminals": []
+    }
+  ],
+  "startStep": null
+}
